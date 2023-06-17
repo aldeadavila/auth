@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LoginAndSignUp</string>
+    <string name="title_activity_maps_hotel">MapsHotelActivity</string>
 </resources>
